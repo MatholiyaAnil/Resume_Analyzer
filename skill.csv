@@ -1,0 +1,341 @@
+Subcategory,Skill
+Technical Skills,Python
+Technical Skills,Java
+Technical Skills,C++
+Technical Skills,SQL
+Technical Skills,NoSQL
+Technical Skills,R
+Technical Skills,JavaScript
+Technical Skills,HTML
+Technical Skills,CSS
+Technical Skills,React
+Technical Skills,Angular
+Technical Skills,Vue.js
+Technical Skills,Node.js
+Technical Skills,PHP
+Technical Skills,Swift
+Technical Skills,Kotlin
+Technical Skills,Ruby
+Technical Skills,Go
+Technical Skills,TypeScript
+Technical Skills,C#
+Technical Skills,Perl
+Technical Skills,Bash
+Technical Skills,Shell Scripting
+Technical Skills,PowerShell
+Technical Skills,Tableau
+Technical Skills,Power BI
+Technical Skills,Excel
+Technical Skills,Google Sheets
+Technical Skills,Data Studio
+Technical Skills,ETL
+Technical Skills,Machine Learning
+Technical Skills,Deep Learning
+Technical Skills,Data Science
+Technical Skills,Artificial Intelligence
+Technical Skills,Big Data
+Technical Skills,Hadoop
+Technical Skills,Spark
+Technical Skills,Kafka
+Technical Skills,Flink
+Technical Skills,Hive
+Technical Skills,Pig
+Technical Skills,HBase
+Technical Skills,AWS
+Technical Skills,Azure
+Technical Skills,Google Cloud
+Technical Skills,Docker
+Technical Skills,Kubernetes
+Technical Skills,Linux
+Technical Skills,macOS
+Technical Skills,Windows Server
+Technical Skills,TensorFlow
+Technical Skills,PyTorch
+Technical Skills,Keras
+Technical Skills,Scikit-learn
+Technical Skills,Pandas
+Technical Skills,NumPy
+Technical Skills,Matplotlib
+Technical Skills,Seaborn
+Technical Skills,MySQL
+Technical Skills,PostgreSQL
+Technical Skills,MongoDB
+Technical Skills,Oracle
+Technical Skills,SQL Server
+Technical Skills,SQLite
+Technical Skills,Git
+Technical Skills,GitHub
+Technical Skills,GitLab
+Technical Skills,Bitbucket
+Technical Skills,Agile
+Technical Skills,Scrum
+Technical Skills,Kanban
+Technical Skills,DevOps
+Technical Skills,CI/CD
+Technical Skills,Jenkins
+Technical Skills,Ansible
+Technical Skills,Terraform
+Technical Skills,CloudFormation
+Technical Skills,Azure Resource Manager
+Technical Skills,Google Cloud Deployment Manager
+Technical Skills,Cybersecurity
+Technical Skills,Networking
+Technical Skills,Network Security
+Technical Skills,Penetration Testing
+Technical Skills,Ethical Hacking
+Technical Skills,Cryptography
+Technical Skills,Information Security
+Technical Skills,Data Security
+Technical Skills,Web Security
+Technical Skills,Mobile Security
+Technical Skills,IoT Security
+Technical Skills,Blockchain
+Technical Skills,Blockchain Development
+Technical Skills,Smart Contracts
+Technical Skills,Solidity
+Technical Skills,Rust
+Technical Skills,WebAssembly
+Technical Skills,AR/VR Development
+Technical Skills,Game Development
+Technical Skills,Mobile App Development
+Technical Skills,Web Development
+Technical Skills,UI/UX Design
+Technical Skills,Software Engineering
+Technical Skills,Software Architecture
+Technical Skills,Data Structures
+Technical Skills,Algorithms
+Technical Skills,Object-Oriented Programming
+Technical Skills,Functional Programming
+Technical Skills,Database Administration
+Technical Skills,System Administration
+Technical Skills,Network Administration
+Technical Skills,Cloud Computing
+Technical Skills,Serverless Computing
+Technical Skills,Edge Computing
+Technical Skills,Quantum Computing
+Technical Skills,Bioinformatics
+Technical Skills,Computational Biology
+Technical Skills,Natural Language Processing (NLP)
+Technical Skills,Computer Vision
+Technical Skills,Robotics
+Technical Skills,Embedded Systems
+Technical Skills,Internet of Things (IoT)
+Technical Skills,Data Visualization
+Technical Skills,Data Mining
+Technical Skills,Statistical Analysis
+Technical Skills,A/B Testing
+Technical Skills,Experimentation
+Technical Skills,Performance Tuning
+Technical Skills,Debugging
+Technical Skills,Testing
+Technical Skills,Quality Assurance
+Technical Skills,Software Testing
+Technical Skills,Unit Testing
+Technical Skills,Integration Testing
+Technical Skills,End-to-End Testing
+Technical Skills,User Acceptance Testing (UAT)
+Technical Skills,Test Automation
+Communication,Active Listening
+Communication,Public Speaking
+Communication,Presentation Skills
+Communication,Written Communication
+Communication,Nonverbal Communication
+Communication,Negotiation
+Communication,Persuasion
+Communication,Storytelling
+Communication,Technical Writing
+Communication,Business Writing
+Communication,Email Etiquette
+Communication,Interpersonal Communication
+Communication,Cross-cultural Communication
+Communication,Feedback Delivery
+Communication,Constructive Criticism
+Teamwork,Collaboration
+Teamwork,Conflict Resolution
+Teamwork,Team Leadership
+Teamwork,Delegation
+Teamwork,Cross-functional Teamwork
+Teamwork,Interpersonal Skills
+Teamwork,Team Building
+Teamwork,Motivation
+Teamwork,Mentoring
+Teamwork,Coaching
+Problem-Solving,Critical Thinking
+Problem-Solving,Analytical Skills
+Problem-Solving,Decision-Making
+Problem-Solving,Creative Problem-Solving
+Problem-Solving,Root Cause Analysis
+Problem-Solving,Lateral Thinking
+Problem-Solving,Design Thinking
+Problem-Solving,Systems Thinking
+Problem-Solving,Troubleshooting
+Problem-Solving,Risk Assessment
+Leadership,Mentoring
+Leadership,Coaching
+Leadership,Strategic Thinking
+Leadership,Vision
+Leadership,Influencing
+Leadership,Change Management
+Leadership,Performance Management
+Leadership,Delegation
+Leadership,Motivation
+Leadership,Empowerment
+Leadership,Decision Making
+Leadership,Conflict Resolution
+Leadership,Communication
+Leadership,Emotional Intelligence
+Leadership,Servant Leadership
+Time Management,Prioritization
+Time Management,Organization
+Time Management,Planning
+Time Management,Project Management
+Time Management,Meeting Management
+Time Management,Deadline Management
+Time Management,Timeboxing
+Time Management,Task Management
+Time Management,Procrastination Management
+Adaptability,Flexibility
+Adaptability,Resilience
+Adaptability,Openness to Feedback
+Adaptability,Learning Agility
+Adaptability,Embracing Change
+Adaptability,Tolerance for Ambiguity
+Adaptability,Growth Mindset
+Adaptability,Resourcefulness
+Adaptability,Creativity
+Adaptability,Innovation
+Finance,Financial Modeling
+Finance,Investment Analysis
+Finance,Risk Management
+Finance,Accounting
+Finance,Regulatory Compliance
+Finance,Portfolio Management
+Finance,Financial Planning
+Finance,Budgeting
+Finance,Forecasting
+Finance,Valuation
+Finance,Derivatives
+Finance,Fixed Income
+Finance,Equity Research
+Finance,Hedge Funds
+Finance,Private Equity
+Finance,Venture Capital
+Finance,Mergers and Acquisitions
+Finance,Financial Reporting
+Finance,Auditing
+Finance,Taxation
+Finance,Financial Technology (FinTech)
+Healthcare,Medical Terminology
+Healthcare,HIPAA Compliance
+Healthcare,Patient Care
+Healthcare,Electronic Health Records (EHR)
+Healthcare,Clinical Research
+Healthcare,Public Health
+Healthcare,Epidemiology
+Healthcare,Biostatistics
+Healthcare,Healthcare Administration
+Healthcare,Medical Coding
+Healthcare,Medical Billing
+Healthcare,Pharmacology
+Healthcare,Anatomy
+Healthcare,Physiology
+Healthcare,Nursing
+Healthcare,Dentistry
+Healthcare,Pharmacy
+Healthcare,Physical Therapy
+Healthcare,Occupational Therapy
+Healthcare,Mental Health
+Healthcare,Oncology
+Healthcare,Cardiology
+Healthcare,Neurology
+Healthcare,Surgery
+Healthcare,Pediatrics
+Healthcare,Geriatrics
+Healthcare,Radiology
+Healthcare,Pathology
+Healthcare,Immunology
+Healthcare,Genetics
+Healthcare,Biotechnology
+Healthcare,Pharmaceuticals
+Healthcare,Medical Devices
+Marketing,Digital Marketing
+Marketing,Social Media Marketing
+Marketing,Content Marketing
+Marketing,SEO/SEM
+Marketing,Market Research
+Marketing,Brand Management
+Marketing,Marketing Strategy
+Marketing,Product Marketing
+Marketing,Marketing Analytics
+Marketing,Email Marketing
+Marketing,Affiliate Marketing
+Marketing,Influencer Marketing
+Marketing,Mobile Marketing
+Marketing,Video Marketing
+Marketing,Content Creation
+Marketing,Copywriting
+Marketing,Public Relations
+Marketing,Event Marketing
+Marketing,Marketing Automation
+Marketing,CRM Management
+Marketing,Lead Generation
+Marketing,Conversion Optimization
+Marketing,A/B Testing
+Marketing,Data Analysis
+Marketing,Customer Segmentation
+Marketing,Campaign Management
+Design,Graphic Design
+Design,UI/UX Design
+Design,Web Design
+Design,User-Centered Design
+Design,Visual Communication
+Design,Typography
+Design,Logo Design
+Design,Branding
+Design,Illustration
+Design,Photography
+Design,Video Editing
+Design,Motion Graphics
+Design,Animation
+Design,3D Modeling
+Design,UX Research
+Design,Usability Testing
+Design,Interaction Design
+Design,Information Architecture
+Design,Wireframing
+Design,Prototyping
+Design,Design Thinking
+Design,User Interface Design
+Design,User Experience Design
+Design,Web Accessibility
+Design,Responsive Design
+Writing,Content Writing
+Writing,Copywriting
+Writing,Technical Writing
+Writing,Creative Writing
+Writing,Editing
+Writing,Proofreading
+Writing,Blog Writing
+Writing,Article Writing
+Writing,Scriptwriting
+Writing,Screenwriting
+Writing,Journalism
+Writing,Poetry
+Writing,Fiction Writing
+Writing,Non-fiction Writing
+Writing,Grant Writing
+Writing,Proposal Writing
+Writing,Report Writing
+Writing,Business Writing
+Writing,Email Writing
+Writing,Social Media Writing
+Writing,SEO Writing
+Writing,Content Strategy
+Writing,Storytelling
+Writing,Narrative Writing
+Writing,UX Writing
+Writing,Technical Documentation
+Writing,API Documentation
+Writing,User Manuals
+Writing,White Papers
+Writing,Case Studies
